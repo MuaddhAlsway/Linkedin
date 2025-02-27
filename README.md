@@ -16,22 +16,22 @@ This project is a LinkedIn-themed website built using only HTML and CSS, without
 ```
 
 Linkedin/
-├── Home - linkedin.html
-├── Home - linkedin.css
-├── Linkedin.html
-├── Linkedin.css
-├── WORK FIELD.html
-├── WORK FIELD.css
-├── choose an account.html
-├── choose an account.css
-├── log in.html
-├── log in.css
-└── img/
-    ├── Linkedn - icon.png
-    ├── home.png
-    ├── group.png
-    ├── user - png.png
-    └── LinkedIn-Logo.wine.png
+├── 📄 Home - linkedin.html          # Main home page layout
+├── 🎨 Home - linkedin.css           # Styling for the home page
+├── 📄 Linkedin.html                 # Core LinkedIn user interface
+├── 🎨 Linkedin.css                  # Styling for the main LinkedIn page
+├── 📄 WORK FIELD.html               # Page for managing work fields
+├── 🎨 WORK FIELD.css                # Styling for work field page
+├── 📄 choose an account.html        # Page for account selection
+├── 🎨choose an account.css         # Styling for account selection page
+├── 📄log in.html                   # Login page
+├── 🎨 log in.css                    # Styling for login page
+└── 📂 img/                           # Folder containing images and icons
+    ├── 📄 Linkedn - icon.png        # LinkedIn favicon or logo icon
+    ├── 📄 home.png                  # Home page icon
+    ├── 📄 group.png                 # Icon for groups or connections
+    ├── 📄 user - png.png            # User profile image placeholder
+    └── 📄LinkedIn-Logo.wine.png    # LinkedIn full logo
 ```
 
 ## 🎬 Technology Used
