@@ -23,15 +23,15 @@ Linkedin/
 ├── 📄 WORK FIELD.html               # Page for managing work fields
 ├── 🎨 WORK FIELD.css                # Styling for work field page
 ├── 📄 choose an account.html        # Page for account selection
-├── 🎨choose an account.css         # Styling for account selection page
-├── 📄log in.html                   # Login page
+├── 🎨choose an account.css          # Styling for account selection page
+├── 📄log in.html                    # Login page
 ├── 🎨 log in.css                    # Styling for login page
-└── 📂 img/                           # Folder containing images and icons
+└── 📂 img/                          # Folder containing images and icons
     ├── 📄 Linkedn - icon.png        # LinkedIn favicon or logo icon
     ├── 📄 home.png                  # Home page icon
     ├── 📄 group.png                 # Icon for groups or connections
     ├── 📄 user - png.png            # User profile image placeholder
-    └── 📄LinkedIn-Logo.wine.png    # LinkedIn full logo
+    └── 📄LinkedIn-Logo.wine.png     # LinkedIn full logo
 ```
 
 ## 🎬 Technology Used
