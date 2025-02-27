@@ -14,7 +14,7 @@ This project is a LinkedIn-themed website built using only HTML and CSS, without
 
 ## 📂 Project Structure  
 ```
-LinkedIn-Clone/
+
 Linkedin/
 ├── Home - linkedin.html
 ├── Home - linkedin.css
